@@ -1,7 +1,8 @@
 ![I am Full Stack Developer](https://i.ibb.co/f8DHcWw/github-header-image.png)
 
-### Hi 👋, my name is  Ali Mohammad Sohel Rana
-#### I am Full Stack Developer
+<h1 align="center">Hi 👋, I'm Ali Mohammad Sohel Rana</h1>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+
 
 
 My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International University. I am from the beautiful town of Dinajpur Thakurgoan, where I grew up and spent most of my life. I am currently completed my education at the university and working With Paid Contructural Application. I am proud of my hometown and my roots, and I strive to make a positive impact in both my community and my university.
@@ -36,12 +37,21 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 
 
 
-- 🔭 I’m currently working on contract base application 
-- 🌱 I’m currently learning React Native , GraphQL, Python 
-- 👯 I’m looking to collaborate on  Programming Hero Team 
-- 🤔 I’m looking for help with Programming Hero Team 
-- 💬 Ask me about react, next js, Node JS, Express Js,JavaScript, My Sql, GraphQL and Etc 
-- 📫 How to reach me: rana16-468@diu.edu.bd 
+- 🔭 I’m currently working on **contract base application**
+
+- 🌱 I’m currently learning **GraphQL And Next Js**
+
+- 👯 I’m looking to collaborate on **Programming Hero Team**
+
+- 🤝 I’m looking for help with **Programming Hero Team**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-rust-66.vercel.app//](https://my-portfolio-chi-rust-66.vercel.app/)
+
+- 💬 Ask me about **react, next js, Node JS, Express Js,JavaScript, My Sql, GraphQL and Etc**
+
+- 📫 How to reach me **rana16-468@diu.edu.bd**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view](https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rana16468)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-m-sohel-rana-377050216/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/amsohel.rana.90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://my-portfolio-chi-rust-66.vercel.app/)  
