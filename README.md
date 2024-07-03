@@ -45,7 +45,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 
 - 🤝 I’m looking for help with **Programming Hero Team**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-rust-66.vercel.app//](https://my-portfolio-chi-rust-66.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-rust-66.vercel.app/](https://my-portfolio-chi-rust-66.vercel.app/)
 
 - 💬 Ask me about **react, next js, Node JS, Express Js,JavaScript, My Sql, GraphQL and Etc**
 
