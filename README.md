@@ -28,6 +28,13 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
    <img alt="Ant Design" src="https://img.shields.io/badge/Ant-Design-blue?logo=css" />
    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-CSS-blue?logo=css" />
       <img alt="Postgress Sql" src="https://img.shields.io/badge/Postgress-Sql-yellow?logo=css" />
+   <img alt="Material UI" src="https://img.shields.io/badge/material-ui-pink?logo=css" />
+   <img alt="shadcn" src="https://img.shields.io/badge/shadcn-yellow?logo=css" />
+   <img alt="Firebase Sql" src="https://img.shields.io/badge/Firebase-yellow?logo=css" />
+   <img alt="Express JS" src="https://img.shields.io/badge/Express-JS-yellow?logo=css" />
+    
+      
+      
     
          
             <
