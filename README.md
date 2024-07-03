@@ -54,7 +54,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Rana16468/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Rana16468)  
+
 
 
 
