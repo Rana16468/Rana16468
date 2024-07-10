@@ -62,6 +62,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true)  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical" alt="GitHub Streak" /></a>
 
 
 
