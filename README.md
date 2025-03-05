@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polymer&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana16468&theme=radical)
+
 
 
 
@@ -92,6 +92,11 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
     </tr>
   </table>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=radical" alt="Profile Details"/>
+</div>
+
 <div align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a>
