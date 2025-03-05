@@ -67,13 +67,26 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view](https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view)
 
 
-
-
 <div align="center">
-   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true)  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical" alt="GitHub Streak" /></a>
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabelsColor=C9D1D9" alt="GitHub Streak" width="100%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
