@@ -53,10 +53,6 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view](https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view)
 
-### My Contact
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png' alt='github' height='40'>](https://github.com/Rana16468)  [<img src='https://thumbs.dreamstime.com/b/linkedin-logo-icon-social-media-symbol-business-contacts-vector-networking-service-sign-124250225.jpg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/a-m-sohel-rana-377050216/)  [<img src='https://img.freepik.com/free-psd/3d-icon-social-media-app_23-2150049579.jpg?size=338&ext=jpg&ga=GA1.1.1413502914.1719878400&semt=ais_user' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/amsohel.rana.90)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVtk5svfiO5bYabWIUQa_9k3cMe2EX6jbPfg&s' alt='website' height='40'>](https://my-portfolio-chi-rust-66.vercel.app/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a> 
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468)](https://github.com/anuraghazra/github-readme-stats)
@@ -70,6 +66,21 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a>
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/a-m-sohel-rana-377050216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/amsohel.rana.90" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:rana16-468@diu.edu.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://my-portfolio-chi-rust-66.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polymer&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 
