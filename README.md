@@ -18,7 +18,9 @@
   </a>
 </div>
 
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=radical" alt="Profile Details"/>
+</div>
 
 
 My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International University. I am from the beautiful town of Dinajpur Thakurgoan, where I grew up and spent most of my life. I am currently completed my education at the university and working With Paid Contructural Application. I am proud of my hometown and my roots, and I strive to make a positive impact in both my community and my university.
@@ -93,9 +95,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=radical" alt="Profile Details"/>
-</div>
+
 
 <div align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
