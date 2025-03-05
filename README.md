@@ -64,7 +64,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 
 - 📫 How to reach me **rana16-468@diu.edu.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view](https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view)
+- 📄 Know about my experiences And CV [https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view](https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view)
 
 
 <div align="center">
