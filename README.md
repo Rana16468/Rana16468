@@ -66,7 +66,8 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 
 - 📄 Know about my experiences And CV [https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view](https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rana16468)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rana16468&theme=radical&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabelsColor=C9D1D9)](https://git.io/streak-stats)
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -88,7 +89,6 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
     </tr>
   </table>
 </div>
-
 <div align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='50' height='50'></a>
