@@ -18,6 +18,26 @@
   </a>
 </div>
 
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabelsColor=C9D1D9" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International University. I am from the beautiful town of Dinajpur Thakurgoan, where I grew up and spent most of my life. I am currently completed my education at the university and working With Paid Contructural Application. I am proud of my hometown and my roots, and I strive to make a positive impact in both my community and my university.
 
 ### My Skills
