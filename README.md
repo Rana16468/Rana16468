@@ -17,7 +17,31 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polymer&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        ```
+        Commits        : 93%
+        Pull Requests  :  3%
+        Code Review    :  3%
+        Issues         :  1%
+        ```
+      </td>
+      <td>
+        <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="100" cy="100" r="90" fill="none" stroke="#0D1117" stroke-width="20"/>
+          <path d="M100 10 A90 90 0 0 1 189.5 95.4 L100 100 Z" fill="#38C963" /> 
+          <path d="M189.5 95.4 A90 90 0 0 1 174.5 141.4 L100 100 Z" fill="#1A6634" /> 
+          <path d="M174.5 141.4 A90 90 0 0 1 167.3 152.3 L100 100 Z" fill="#1A6634" /> 
+          <path d="M167.3 152.3 A90 90 0 0 1 100 10 L100 100 Z" fill="#166534" /> 
+          <circle cx="100" cy="100" r="50" fill="#0D1117"/>
+          <text x="100" y="110" text-anchor="middle" fill="white" font-size="20">93%</text>
+        </svg>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International University. I am from the beautiful town of Dinajpur Thakurgoan, where I grew up and spent most of my life. I am currently completed my education at the university and working With Paid Contructural Application. I am proud of my hometown and my roots, and I strive to make a positive impact in both my community and my university.
