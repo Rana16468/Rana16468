@@ -3,7 +3,20 @@
 <h1 align="center">Hi 👋, I'm Ali Mohammad Sohel Rana</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/a-m-sohel-rana-377050216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/amsohel.rana.90" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:rana16-468@diu.edu.bd">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://my-portfolio-chi-rust-66.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polymer&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International University. I am from the beautiful town of Dinajpur Thakurgoan, where I grew up and spent most of my life. I am currently completed my education at the university and working With Paid Contructural Application. I am proud of my hometown and my roots, and I strive to make a positive impact in both my community and my university.
 
@@ -68,20 +81,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/a-m-sohel-rana-377050216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/amsohel.rana.90" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:rana16-468@diu.edu.bd">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://my-portfolio-chi-rust-66.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polymer&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+
 
 
 
