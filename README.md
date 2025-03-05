@@ -67,6 +67,24 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view](https://drive.google.com/file/d/1PJZ6qtXUUGNrWyGjCQxEgZ0U0jFVY-lx/view)
 
 
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact" alt="Top Languages"/>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  </div>
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical" alt="GitHub Streak"/>
+    </a>
+  </div>
+</div>
+
+
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -80,6 +98,7 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='50' height='50'></a>
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
 </div>
+
 
 
 
