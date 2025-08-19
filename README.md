@@ -1,7 +1,7 @@
 ![I am Full Stack Developer](https://i.ibb.co/f8DHcWw/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Ali Mohammad Sohel Rana</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-mohammad-sohel-rana/" target="_blank">
@@ -18,63 +18,111 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+My name is **Ali Mohammad Sohel Rana**, and I am a dedicated Computer Science student at **Daffodil International University**. Originally from the beautiful town of **Dinajpur, Thakurgaon**, I have developed a passion for creating innovative web solutions and solving complex problems through code.
+
+Currently, I am working on **contract-based applications** while continuously expanding my knowledge in modern web technologies. I believe in writing clean, efficient code and creating user-friendly applications that make a real difference.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Frontend Technologies
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### Styling & UI Libraries
+<p>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
+  <img alt="Shadcn/ui" src="https://img.shields.io/badge/-Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+</p>
+
+### Backend Technologies
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+### Tools & Others
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
+---
+
+## 💼 What I'm Up To
+
+- 🔭 I'm currently working on **contract-based applications**
+- 🌱 I'm currently learning **GraphQL and Advanced Next.js**
+- 👯 I'm looking to collaborate with **Programming Hero Team**
+- 🤝 I'm seeking opportunities with **Programming Hero Team**
+- 💡 I'm passionate about **building scalable web applications**
+- 🎯 **2025 Goals:** Master microservices architecture and contribute to open source
+
+---
+
+## 🌟 Featured Projects
+
+### 🛍️ E-Commerce Platform
+A full-stack e-commerce solution built with **React**, **Node.js**, and **MongoDB**
+- Features: User authentication, payment integration, admin dashboard
+- Tech Stack: React, Express.js, MongoDB, Stripe API
+
+### 📱 Task Management App
+A collaborative project management tool with real-time updates
+- Features: Real-time collaboration, task tracking, team management
+- Tech Stack: Next.js, Socket.io, PostgreSQL, Prisma
+
+### 🌐 Portfolio Website
+A responsive portfolio showcasing my projects and skills
+- Features: Dynamic content, contact form, project showcase
+- Tech Stack: Next.js, Tailwind CSS, Vercel deployment
+
+*[View all projects in my portfolio](https://my-portfolio-chi-rust-66.vercel.app/)*
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=radical" alt="Profile Details"/>
 </div>
 
-
-My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International University. I am from the beautiful town of Dinajpur Thakurgoan, where I grew up and spent most of my life. I am currently completed my education at the university and working With Paid Contructural Application. I am proud of my hometown and my roots, and I strive to make a positive impact in both my community and my university.
-
-### My Skills
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/-Next-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="My SQL" src="https://img.shields.io/badge/MYSQL-%23EB4714?logo=mysql" />
-   <img alt="CSS" src="https://img.shields.io/badge/CSS-red?logo=css" />
-   <img alt="Ant Design" src="https://img.shields.io/badge/Ant-Design-blue?logo=css" />
-   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-CSS-blue?logo=css" />
-    <img alt="Postgress Sql" src="https://img.shields.io/badge/Postgress-Sql-yellow?logo=css" />
-   <img alt="Material UI" src="https://img.shields.io/badge/material-ui-pink?logo=css" />
-   <img alt="shadcn" src="https://img.shields.io/badge/shadcn-yellow?logo=css" />
-   <img alt="Firebase Sql" src="https://img.shields.io/badge/Firebase-yellow?logo=css" />
-   <img alt="Express JS" src="https://img.shields.io/badge/Express-JS-yellow?logo=css" />
-</p>
-
-
-
-- 🔭 I’m currently working on **contract base application**
-
-- 🌱 I’m currently learning **GraphQL And Next Js**
-
-- 👯 I’m looking to collaborate on **Programming Hero Team**
-
-- 🤝 I’m looking for help with **Programming Hero Team**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-rust-66.vercel.app/](https://my-portfolio-chi-rust-66.vercel.app/)
-
-- 💬 Ask me about **react, next js, Node JS, Express Js,JavaScript, My Sql, GraphQL and Etc**
-
-- 📫 How to reach me **rana16-468@diu.edu.bd**
-
-- 📄 Know about my experiences And CV [https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view](https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view)
-
-
-
 <div align="center">
-  <table width="100%">
+  <table>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -88,14 +136,16 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
     <tr>
       <td colspan="2" align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabelsColor=C9D1D9" alt="GitHub Streak" width="100%"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Rana16468&theme=radical&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabelsColor=C9D1D9" alt="GitHub Streak" width="70%"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
 
+---
 
+## 🏆 GitHub Achievements
 
 <div align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
@@ -105,11 +155,64 @@ My name is Ali Mohammad Sohel Rana and I am a student at Daffodil International 
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='50' height='50'></a>
 </div>
 
+---
 
+## 💡 What I Can Help You With
 
+💬 **Ask me about:**
+- Frontend Development (React, Next.js, TypeScript)
+- Backend Development (Node.js, Express.js, NestJS)
+- Database Design (MongoDB, MySQL, PostgreSQL)
+- API Development (REST, GraphQL)
+- Modern Web Technologies
+- Project Architecture & Best Practices
 
+---
 
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
+---
 
+## 🎯 Current Focus
 
+- 📚 **Learning:** Advanced GraphQL patterns and Next.js 14 features
+- 🔨 **Building:** Scalable microservices architecture
+- 🎯 **Goal:** Contributing to open-source projects
+- 🚀 **Next:** Exploring cloud-native development
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+  
+**📫 Reach out to me:**
+- 📧 Email: [rana16-468@diu.edu.bd](mailto:rana16-468@diu.edu.bd)
+- 🌐 Portfolio: [Visit My Portfolio](https://my-portfolio-chi-rust-66.vercel.app/)
+- 📄 Resume: [Download CV](https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view)
+
+**🤝 I'm open to:**
+- Freelance projects
+- Collaboration opportunities
+- Mentorship and learning
+- Full-time opportunities
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rana16468&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  
+  **⭐ If you find my work interesting, please consider giving a star to my repositories!**
+</div>
+
+---
+
+<div align="center">
+  <i>💙 Thank you for visiting my profile! Let's build something amazing together! 💙</i>
+</div>
