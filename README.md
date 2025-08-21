@@ -49,23 +49,23 @@
 <!-- Developer Profile Object -->
 ```javascript
 const aliMohammad = {
-    // Personal Information
+    
     name: "Ali Mohammad Sohel Rana",
     location: "Dinajpur, Thakurgaon, Bangladesh 🇧🇩",
     education: "Daffodil International University",
     
-    // Professional Status
+   
     currentWork: "Contract-based Application Development",
     lookingFor: "Opportunities with Programming Hero Team",
     
-    // Learning & Skills
+   
     learning: ["GraphQL", "Next.js", "Advanced React Patterns"],
     askMeAbout: ["React", "Next.js", "Node.js", "GraphQL", "Full Stack Development"],
     
-    // Personal Touch
+   
     funFact: "I love turning coffee into code! ☕➡️💻",
     
-    // Future Goals
+   
     goals: [
         "Open Source Contribution", 
         "Mentoring Developers", 
