@@ -5,9 +5,9 @@
 
 <!-- Profile Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rana16468&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Rana16468?style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Rana16468?style=for-the-badge&color=yellow" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Rana16468&color=1B2951&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Rana16468?style=for-the-badge&color=1B2951" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Rana16468?style=for-the-badge&color=FFD700" alt="Stars"/>
 </div>
 
 <!-- Animated Typing Header -->
@@ -24,19 +24,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-mohammad-sohel-rana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1B2951?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/amsohel.rana.90" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1B2951?style=for-the-badge&logo=facebook&logoColor=FFD700" alt="Facebook"/>
   </a>
   <a href="mailto:rana16-468@diu.edu.bd">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-1B2951?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/>
   </a>
   <a href="https://my-portfolio-chi-rust-66.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=polymer&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-1B2951?style=for-the-badge&logo=polymer&logoColor=FFD700" alt="Portfolio"/>
   </a>
   <a href="https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-1B2951?style=for-the-badge&logo=google-drive&logoColor=FFD700" alt="Resume"/>
   </a>
 </div>
 
@@ -49,23 +49,23 @@
 <!-- Developer Profile Object -->
 ```javascript
 const aliMohammad = {
-   
+    
     name: "Ali Mohammad Sohel Rana",
     location: "Dinajpur, Thakurgaon, Bangladesh 🇧🇩",
     education: "Daffodil International University",
     
-  
+   
     currentWork: "Contract-based Application Development",
     lookingFor: "Opportunities with Programming Hero Team",
     
-   
+  
     learning: ["GraphQL", "Next.js", "Advanced React Patterns"],
     askMeAbout: ["React", "Next.js", "Node.js", "GraphQL", "Full Stack Development"],
     
-
+   
     funFact: "I love turning coffee into code! ☕➡️💻",
     
-   
+  
     goals: [
         "Open Source Contribution", 
         "Mentoring Developers", 
