@@ -12,7 +12,7 @@
 
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Mohammad;Full+Stack+Developer;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Mohammad;Full+Stack+Developer;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <!-- Subtitle -->
@@ -49,12 +49,12 @@
 <!-- Developer Profile Object -->
 ```javascript
 const aliMohammad = {
-    
+   
     name: "Ali Mohammad Sohel Rana",
     location: "Dinajpur, Thakurgaon, Bangladesh 🇧🇩",
     education: "Daffodil International University",
     
-   
+  
     currentWork: "Contract-based Application Development",
     lookingFor: "Opportunities with Programming Hero Team",
     
@@ -62,7 +62,7 @@ const aliMohammad = {
     learning: ["GraphQL", "Next.js", "Advanced React Patterns"],
     askMeAbout: ["React", "Next.js", "Node.js", "GraphQL", "Full Stack Development"],
     
-   
+
     funFact: "I love turning coffee into code! ☕➡️💻",
     
    
@@ -88,7 +88,7 @@ const aliMohammad = {
 <div align="center">
   
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
   
   <!-- Achievement Badges -->
   <div style="margin-top: 20px;">
@@ -151,18 +151,18 @@ const aliMohammad = {
 
 <!-- Main Stats Row -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rana16468&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951" alt="GitHub Stats"/> 
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <!-- Language Stats -->
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages"/>
 </div>
 
 <!-- Contribution Graph -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <!-- Snake Animation -->
@@ -176,10 +176,10 @@ const aliMohammad = {
 
 <div align="center">
   <a href="https://github.com/Rana16468/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=project1&theme=radical&hide_border=true" alt="Featured Project 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=project1&theme=navy&hide_border=true" alt="Featured Project 1"/>
   </a>
   <a href="https://github.com/Rana16468/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=project2&theme=radical&hide_border=true" alt="Featured Project 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=project2&theme=navy&hide_border=true" alt="Featured Project 2"/>
   </a>
 </div>
 
@@ -199,7 +199,7 @@ const aliMohammad = {
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=58a6ff" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1B2951&border_color=FFD700" alt="Spotify Now Playing"/>
 </div>
 
 ---
@@ -207,7 +207,7 @@ const aliMohammad = {
 ## 😄 Random Dev Humor
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=navy&hideBorder" alt="Jokes Card" />
 </div>
 
 ---
@@ -261,7 +261,10 @@ const aliMohammad = {
 
 📝 CUSTOMIZATION TIPS:
 
-- Adjust color scheme by changing hex codes (currently using GitHub dark theme colors)
+- Adjust color scheme by changing hex codes (currently using navy blue theme):
+  * Background: #1B2951 (Navy Blue)
+  * Primary accent: #FFD700 (Gold)
+  * Text: #FFFFFF (White)
 - Modify skill icons by updating the skillicons.dev URLs
 - Add/remove sections based on your preferences
 - Update the typing animation text in the header
