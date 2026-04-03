@@ -94,18 +94,35 @@ const aliMohammad = {
 
 ## 📊 GitHub Statistics
 
+> ⚙️ **Stats cards require your own Vercel deployment — see setup below.**
+> Once set up, replace `YOUR-VERCEL-APP` in the URLs below with your actual deployment URL.
+
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951" alt="GitHub Stats"/>
+<!-- After self-hosting, replace YOUR-VERCEL-APP with your actual Vercel URL -->
+<img width="48%" src="https://YOUR-VERCEL-APP.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951" alt="GitHub Stats"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=10" alt="Top Languages"/>
+<img width="55%" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=10" alt="Top Languages"/>
 
 </div>
+
+### 🔧 How to Fix Stats Cards (One-Time Setup)
+
+The public `github-readme-stats.vercel.app` instance is **broken for everyone** due to Vercel rate limits. You need to deploy your own free instance:
+
+1. Go to 👉 [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. Click **Fork** (top right)
+3. Go to 👉 [vercel.com](https://vercel.com) → Log in with GitHub
+4. Click **"Add New Project"** → Import your forked repo
+5. Add environment variable: `PAT_1` = your GitHub Personal Access Token  
+   *(Settings → Developer Settings → Personal Access Tokens → Generate new token → select `repo` and `read:user`)*
+6. Deploy → copy your Vercel URL (e.g., `github-readme-stats-rana.vercel.app`)
+7. Replace `YOUR-VERCEL-APP` in this README with that URL
 
 ---
 
@@ -114,6 +131,8 @@ const aliMohammad = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=6&row=1&column=6" alt="GitHub Trophies"/>
 </div>
+
+> ℹ️ Trophy widget uses a separate service (`github-profile-trophy.vercel.app`) — this one is generally more stable than the stats cards.
 
 ---
 
