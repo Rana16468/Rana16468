@@ -1,19 +1,14 @@
 <div align="center">
 
-<!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B2951,FFD700&height=200&section=header&text=Ali%20Mohammad%20Sohel%20Rana&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B2951,FFD700&height=220&section=header&text=Ali%20Mohammad%20Sohel%20Rana&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%94%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=62&descSize=17" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+GraphQL;Building+Scalable+Web+Applications;Open+Source+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=620&lines=Building+production-grade+web+applications;React+%7C+Next.js+%7C+Node.js+%7C+GraphQL;Scalable+APIs+%7C+Auth+%7C+Payments+%7C+Cloud;Turning+complex+problems+into+clean+code" alt="Typing SVG" />
 
-<!-- PROFILE BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Rana16468&color=1B2951&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Rana16468?style=for-the-badge&color=1B2951&label=FOLLOWERS" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Rana16468?style=for-the-badge&color=FFD700&label=STARS" alt="Stars"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rana16468&color=1B2951&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Rana16468?style=for-the-badge&color=1B2951&labelColor=FFD700&label=FOLLOWERS&logoColor=1B2951" alt="Followers"/>
 
 </div>
 
@@ -21,138 +16,97 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const aliMohammad = {
-  name:       "Ali Mohammad Sohel Rana",
-  location:   "Bangladesh 🇧🇩",
-  education:  "Daffodil International University",
-  role:       "Full Stack Developer",
-  work:       "Contract-based Application Development",
-  learning:   ["GraphQL", "Next.js", "Advanced React Patterns"],
-  askMeAbout: ["React", "Next.js", "Node.js", "GraphQL", "Full Stack Dev"],
-  funFact:    "I debug with console.log and I'm not ashamed! 😄",
-  goals:      ["Open Source Contribution", "Mentoring Developers", "Impactful Apps"]
+I'm a **Full Stack Developer** from Bangladesh with hands-on experience building real-world, contract-based applications from the ground up. I focus on writing clean, maintainable code that solves real problems — from authentication flows and payment systems to multi-language backends and AI-driven features.
+
+I care deeply about **architecture quality**, **developer experience**, and **delivering value** — not just shipping code.
+
+```ts
+const sohel = {
+  name:     "Ali Mohammad Sohel Rana",
+  role:     "Full Stack Developer",
+  location: "Bangladesh 🇧🇩",
+  focus:    ["Scalable APIs", "Full Stack Apps", "Clean Architecture"],
+  stack:    ["React", "Next.js", "Node.js", "MongoDB", "PostgreSQL", "GraphQL"],
+  contact:  "rana16-468@diu.edu.bd",
 };
 ```
-
-- 🔭 Currently working on **contract-based web applications**
-- 🌱 Actively learning **GraphQL** and **Advanced Next.js patterns**
-- 👯 Looking to collaborate with the **Programming Hero Team**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, GraphQL**
-- 📫 Reach me at **rana16-468@diu.edu.bd**
-- ⚡ Fun fact: **Coffee → Code → Repeat ☕💻**
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B2951?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/ali-mohammad-sohel-rana/)
-[![Facebook](https://img.shields.io/badge/Facebook-1B2951?style=for-the-badge&logo=facebook&logoColor=FFD700)](https://www.facebook.com/amsohel.rana.90)
-[![Gmail](https://img.shields.io/badge/Gmail-1B2951?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:rana16-468@diu.edu.bd)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B2951?style=for-the-badge&logo=vercel&logoColor=FFD700)](https://my-portfolio-chi-rust-66.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-1B2951?style=for-the-badge&logo=google-drive&logoColor=FFD700)](https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view)
-
-</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css,figma&perline=8" />
 </div>
 
-### 🎨 Frontend
+### Backend & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,materialui,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,mongodb,postgresql,firebase,redis&perline=8" />
 </div>
 
-### ⚙️ Backend
+### Cloud, DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma&perline=5" />
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&perline=5" />
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github&perline=6" />
-</div>
-
-### 🧰 Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn,photoshop&perline=5" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,npm&perline=8" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## ⚙️ Backend Expertise
 
-> ⚙️ **Stats cards require your own Vercel deployment — see setup below.**
-> Once set up, replace `YOUR-VERCEL-APP` in the URLs below with your actual deployment URL.
-
-<div align="center">
-
-<!-- After self-hosting, replace YOUR-VERCEL-APP with your actual Vercel URL -->
-<img width="48%" src="https://YOUR-VERCEL-APP.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=10" alt="Top Languages"/>
-
-</div>
-
-### 🔧 How to Fix Stats Cards (One-Time Setup)
-
-The public `github-readme-stats.vercel.app` instance is **broken for everyone** due to Vercel rate limits. You need to deploy your own free instance:
-
-1. Go to 👉 [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Click **Fork** (top right)
-3. Go to 👉 [vercel.com](https://vercel.com) → Log in with GitHub
-4. Click **"Add New Project"** → Import your forked repo
-5. Add environment variable: `PAT_1` = your GitHub Personal Access Token  
-   *(Settings → Developer Settings → Personal Access Tokens → Generate new token → select `repo` and `read:user`)*
-6. Deploy → copy your Vercel URL (e.g., `github-readme-stats-rana.vercel.app`)
-7. Replace `YOUR-VERCEL-APP` in this README with that URL
+| Skill | Details |
+|---|---|
+| 🏗️ **Architecture** | RESTful API design, MVC pattern, modular codebase structure |
+| 🔐 **Auth & Security** | JWT, role-based access control, refresh token rotation |
+| 💳 **Payments** | Stripe integration with custom revenue-split logic (80/20) |
+| 🗃️ **Data** | MongoDB aggregation pipelines, Prisma ORM, complex SQL queries |
+| 🌍 **Localization** | Multi-language backend using Google Translate API |
+| 📁 **File Management** | Upload, validate, and serve files (Cloudinary / AWS S3) |
+| 🤖 **AI Integration** | AI-powered data validation and user-input processing |
+| ⚡ **Real-time** | Dynamic filtering, search, and sorting at scale |
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 What I've Built
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=6&row=1&column=6" alt="GitHub Trophies"/>
-</div>
+### Multi-Role Platform (Admin / User / Driver)
+> A full logistics-style platform with distinct dashboards and permission layers for three user types. Admins manage users and data; drivers handle delivery status; users track orders in real time.
 
-> ℹ️ Trophy widget uses a separate service (`github-profile-trophy.vercel.app`) — this one is generally more stable than the stats cards.
+### Stripe Payment System with Revenue Split
+> Integrated Stripe with automatic 80/20 revenue distribution between platform and service providers — including webhook handling, refund flows, and transaction history.
+
+### AI Validation System
+> Built a pipeline that feeds user inputs through an AI model for contextual validation before processing — reducing invalid submissions and improving data quality.
+
+### Real-Time Filtering & Search Engine
+> Implemented a high-performance filtering system across large datasets using query builders, index optimization, and paginated responses.
+
+### Multi-Language Backend
+> Designed a language middleware layer using Google Translate API that dynamically localizes API responses based on user locale preferences.
 
 ---
 
 ## 🎯 Featured Projects
 
-> ⚙️ *Pin your best repositories on GitHub so they appear here automatically via the pinned repos section on your profile page.*
-
-<!-- Replace the repo names below with your actual repositories -->
-
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Rana16468&theme=navy&hide_border=true)](https://github.com/Rana16468/Rana16468)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Rana16468&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/Rana16468)
 
 </div>
 
-> 💡 **Tip:** Go to your GitHub profile → click **"Customize your profile"** → **"Pin repositories"** to showcase your top 6 projects directly on your profile.
+> 💡 More projects available on my [GitHub profile](https://github.com/Rana16468) and [Portfolio](https://my-portfolio-chi-rust-66.vercel.app/).
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" alt="GitHub Streak"/>
+&nbsp;
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=8" alt="Top Languages"/>
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -160,63 +114,37 @@ The public `github-readme-stats.vercel.app` instance is **broken for everyone** 
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
-> ⚙️ **Setup required:** To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rana16468
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once set up, uncomment this line in the README:
-
-```
-<!-- <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/snake.svg" alt="Snake Animation" /> -->
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 📝 Blog & Articles
+## 🌐 Connect With Me
 
-> 🔗 *Update these links once your articles are published.*
-
-| # | Title | Status |
-|---|-------|--------|
-| 1 | Building Scalable Apps with Next.js and GraphQL | 🚧 Coming Soon |
-| 2 | Advanced React Patterns for Better Code Organization | 🚧 Coming Soon |
-| 3 | MongoDB vs PostgreSQL: Choosing the Right Database | 🚧 Coming Soon |
-| 4 | Deploying Full-Stack Applications to the Cloud | 🚧 Coming Soon |
-
----
-
-<!-- FOOTER -->
 <div align="center">
 
-<h3>💖 Thanks for visiting! Have a wonderful day! 😊</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohammad-sohel-rana/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B2951?style=for-the-badge&logo=vercel&logoColor=FFD700)](https://my-portfolio-chi-rust-66.vercel.app/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana16-468@diu.edu.bd)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amsohel.rana.90)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1RwbGzniiZd69aYBvpLUYeeh4ZtIqPGGE/view)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,1B2951&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+*Open to freelance projects, contract work, and interesting collaborations.*
+**Let's build something great together.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,1B2951&height=100&section=footer" />
 
 </div>
