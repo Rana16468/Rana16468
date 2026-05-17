@@ -194,7 +194,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" alt="GitHub Streak"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" alt="GitHub Streak"/>
 &nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=8&card_width=320" alt="Top Languages"/>
 
@@ -210,7 +210,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true&radius=6" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&radius=6" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -218,7 +218,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
