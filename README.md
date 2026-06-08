@@ -1,17 +1,11 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2951,100:FFD700&height=240&section=header&text=Ali%20Mohammad%20Sohel%20Rana&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=FFD700&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+GraphQL;Scalable+APIs+%7C+Auth+%7C+Payments+%7C+Cloud;MongoDB+%7C+PostgreSQL+%7C+Prisma+%7C+Firebase;Turning+complex+problems+into+clean+code+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES ROW -->
 <img src="https://komarev.com/ghpvc/?username=Rana16468&color=1B2951&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Rana16468?style=for-the-badge&color=FFD700&labelColor=1B2951&label=FOLLOWERS" alt="Followers"/>
@@ -57,7 +51,7 @@ const sohel: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Sohel%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohammad-sohel-rana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Sohel%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohammad-sohel-rana-377050216/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FFD700?style=for-the-badge&logo=vercel&logoColor=1B2951)](https://my-portfolio-chi-rust-66.vercel.app/)
 &nbsp;
@@ -75,7 +69,7 @@ const sohel: Developer = {
 
 ### 💻 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&perline=8" />
 </div>
 
 ### 🎨 Frontend
@@ -178,19 +172,10 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Rana16468 Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Rana16468&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/Rana16468)
-
-</div>
-
-> 💡 Visit my [GitHub profile](https://github.com/Rana16468) to explore all repositories and pinned projects.
-
----
-
 ## 📊 GitHub Statistics
+
+<!-- ✅ FIX: Using the PUBLIC hosted github-readme-stats (vercel.app) — works reliably -->
+<!-- If stats cards stop loading, self-host: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
 
@@ -208,7 +193,6 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&radius=6" width="100%" alt="Contribution Graph"/>
 </div>
@@ -220,6 +204,22 @@ Developed a locale-aware API middleware that dynamically translates response con
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 </div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Rana16468 Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Rana16468&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/Rana16468)
+&nbsp;
+[![Interior Design](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Interior-Design-Frontend&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/Interior-Design-Frontend)
+&nbsp;
+[![Contact Management](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=contact-management-client&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/contact-management-client)
+
+</div>
+
+> 💡 Visit my [GitHub profile](https://github.com/Rana16468) to explore all 75+ repositories.
 
 ---
 
@@ -248,7 +248,16 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ## 🐍 Contribution Snake
 
-> **One-time setup:** Add `.github/workflows/snake.yml` to your profile repo. The snake will auto-generate daily via GitHub Actions.
+<!-- One-time setup: Add the workflow file below to .github/workflows/snake.yml in your profile repo -->
+<!-- Once set up (output branch exists), uncomment the img tag below and delete this comment block -->
+
+<!-- <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/snake-dark.svg" alt="Snake Animation" /> -->
+
+<details>
+<summary><b>⚙️ Click here for snake setup instructions</b></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in this repo with:
 
 ```yaml
 name: Generate Snake Animation
@@ -274,11 +283,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-After setup, paste this into the README:
+Then run it manually from the **Actions** tab. Once the `output` branch is created, uncomment the snake image above.
 
-```
-<img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/snake-dark.svg" alt="Snake Animation" />
-```
+</details>
 
 ---
 
@@ -297,14 +304,9 @@ After setup, paste this into the README:
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-<br/>
-
 **"First, solve the problem. Then, write the code."**
-
-<br/>
 
 *If my work helped you, consider starring ⭐ my repos — it keeps me going!*
 
