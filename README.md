@@ -53,7 +53,7 @@ const sohel: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Sohel%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohammad-sohel-rana-377050216/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FFD700?style=for-the-badge&logo=vercel&logoColor=1B2951)](https://my-portfolio-chi-rust-66.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FFD700?style=for-the-badge&logo=vercel&logoColor=1B2951)](https://my-portfolio-sohel-rana.vercel.app/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana16-468@diu.edu.bd)
 &nbsp;
@@ -174,8 +174,24 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ## 📊 GitHub Statistics
 
-<!-- ✅ FIX: Using the PUBLIC hosted github-readme-stats (vercel.app) — works reliably -->
-<!-- If stats cards stop loading, self-host: https://github.com/anuraghazra/github-readme-stats -->
+<!-- 
+  NOTE ON RELIABILITY:
+  The cards below use the shared public instances of github-readme-stats,
+  streak-stats and github-profile-trophy. These are free community services
+  used by hundreds of thousands of profiles, so they periodically return
+  503/blank images when the shared GitHub API quota is hit. This is a known,
+  documented limitation of the public instances — not a bug in this file.
+
+  If a card ever shows broken/blank for you:
+  1) Hard-refresh (cards are cached ~30min-ish, GitHub's own image cache can
+     also hold a broken response longer).
+  2) For a permanent fix, deploy your own free instance on Vercel by forking
+     https://github.com/anuraghazra/github-readme-stats and pointing the URLs
+     below at your fork's domain instead of the shared one.
+  3) Alternative: generate static SVGs on a schedule via GitHub Actions
+     (search "github-readme-stats GitHub Actions workflow") and commit them
+     to this repo, so the images are self-hosted and never rate-limited.
+-->
 
 <div align="center">
 
@@ -219,7 +235,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 </div>
 
-> 💡 Visit my [GitHub profile](https://github.com/Rana16468) to explore all 75+ repositories.
+> 💡 Visit my [GitHub profile](https://github.com/Rana16468) to explore all 85+ repositories.
 
 ---
 
@@ -246,18 +262,19 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- One-time setup: Add the workflow file below to .github/workflows/snake.yml in your profile repo -->
-<!-- Once set up (output branch exists), uncomment the img tag below and delete this comment block -->
-
-<!-- <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/snake-dark.svg" alt="Snake Animation" /> -->
-
 <details>
-<summary><b>⚙️ Click here for snake setup instructions</b></summary>
+<summary><b>🐍 Contribution Snake (optional — one-time setup required)</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in this repo with:
+This section is inactive until you complete a one-time GitHub Actions setup — that's why it was removed from the main view. To enable it:
+
+1. In this repo, create `.github/workflows/snake.yml` with the content below.
+2. Push it to `main`, then trigger it once manually from the **Actions** tab (or wait for the daily cron).
+3. Once the workflow finishes, it creates an `output` branch containing `snake.svg` / `snake-dark.svg`.
+4. Add this line back into the README, above the "Open For" section:
+   ```md
+   <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/snake-dark.svg" alt="Snake Animation" />
+   ```
 
 ```yaml
 name: Generate Snake Animation
@@ -282,8 +299,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-Then run it manually from the **Actions** tab. Once the `output` branch is created, uncomment the snake image above.
 
 </details>
 
