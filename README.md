@@ -207,19 +207,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 <a name="analytics"></a>
 ## 📊 GitHub Analytics
 
-### 🔥 At a Glance
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951" alt="GitHub Stats"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=8&card_width=320" alt="Top Languages"/>
-
-<br/><br/>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" alt="GitHub Streak"/>
-
-</div>
 
 ### 📈 Commit & Contribution Insights
 
