@@ -201,22 +201,8 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ---
 
-<a name="projects"></a>
-## 🎯 Featured Projects
 
-<div align="center">
 
-[![Rana16468 Profile Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Rana16468&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/Rana16468)
-&nbsp;
-[![Interior Design](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=Interior-Design-Frontend&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/Interior-Design-Frontend)
-&nbsp;
-[![Contact Management](https://github-readme-stats.vercel.app/api/pin/?username=Rana16468&repo=contact-management-client&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=1B2951)](https://github.com/Rana16468/contact-management-client)
-
-</div>
-
-> 💡 Explore all my repositories on my [GitHub profile](https://github.com/Rana16468?tab=repositories).
-
----
 
 <a name="analytics"></a>
 ## 📊 GitHub Analytics
