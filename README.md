@@ -233,38 +233,9 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 </div>
 
-### 🧊 Contribution Calendar & Detailed Metrics
 
-<div align="center">
 
-<img src="./github-metrics-isometric.svg" width="100%" alt="Isometric Contribution Calendar"/>
 
-<br/>
-
-<img src="./github-metrics.svg" width="100%" alt="Detailed GitHub Metrics"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-</div>
-
----
-
-## 📌 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <a name="hire"></a>
 ## 💼 Open For
