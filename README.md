@@ -201,17 +201,62 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ---
 
-
-
-
 <a name="analytics"></a>
 ## 📊 GitHub Analytics
 
-
-
-### 📈 Commit & Contribution Insights
+> Auto-updating dashboard: daily commit activity, contribution calendars, streaks, language breakdown and a full GitHub report.
 
 <div align="center">
+
+### 🗓️ Daily Commit Graph (Last 31 Days)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true&radius=6&custom_title=Daily%20Commit%20Activity" width="100%" alt="Daily Commit Graph"/>
+
+<br/><br/>
+
+### 🟩 Yearly Contribution Calendar
+
+<img src="https://ghchart.rshah.org/FFD700/Rana16468" width="100%" alt="Yearly Contribution Calendar"/>
+
+<br/><br/>
+
+### 🧊 3D Contribution Calendar
+
+<img src="./github-metrics-isocalendar.svg" width="100%" alt="3D Isometric Contribution Calendar"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=Rana16468&background=1B2951&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideLabels=FFD700&sideNums=FFFFFF&dates=CCCCCC&stroke=FFD700&border=FFD700&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+<br/><br/>
+
+### 📈 Stats & Top Languages
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&hide_border=true&bg_color=1B2951&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+&nbsp;
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&langs_count=8&hide_border=true&bg_color=1B2951&title_color=FFD700&text_color=FFFFFF" alt="Top Languages"/>
+
+<br/><br/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+### 🧾 Profile Summary Cards
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=github_dark" alt="Profile Details"/>
 &nbsp;
@@ -223,19 +268,21 @@ Developed a locale-aware API middleware that dynamically translates response con
 &nbsp;
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rana16468&theme=github_dark" alt="Stats Summary"/>
 
-<br/>
+<br/><br/>
+
+### ⏰ Productive Time
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana16468&theme=github_dark&utcOffset=6" alt="Productive Time"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&radius=6" width="100%" alt="Contribution Graph"/>
+### 📑 Full GitHub Report
+
+<img src="./github-metrics.svg" width="100%" alt="Full GitHub Metrics Report"/>
 
 </div>
 
-
-
-
+---
 
 <a name="hire"></a>
 ## 💼 Open For
