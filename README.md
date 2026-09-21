@@ -242,20 +242,6 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 <br/><br/>
 
-### 📈 Stats & Top Languages
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&hide_border=true&bg_color=1B2951&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&langs_count=8&hide_border=true&bg_color=1B2951&title_color=FFD700&text_color=FFFFFF" alt="Top Languages"/>
-
-<br/><br/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies"/>
-
-<br/><br/>
-
 ### 🧾 Profile Summary Cards
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=github_dark" alt="Profile Details"/>
