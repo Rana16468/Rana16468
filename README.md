@@ -1,23 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2951,100:FFD700&height=240&section=header&text=Ali%20Mohammad%20Sohel%20Rana&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2951,100:FFD700&height=240&section=header&text=Ali%20Mohammad%20Sohel%20Rana&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=60&descSize=18" width="100%" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=FFD700&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+GraphQL;Scalable+APIs+%7C+Auth+%7C+Payments+%7C+Cloud;MongoDB+%7C+PostgreSQL+%7C+Prisma+%7C+Firebase;Turning+complex+problems+into+clean+code+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rana16468&color=1B2951&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
 <img src="https://img.shields.io/github/followers/Rana16468?style=for-the-badge&color=FFD700&labelColor=1B2951&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRana16468&query=%24.public_repos&style=for-the-badge&color=FFD700&labelColor=1B2951&label=PUBLIC%20REPOS" alt="Public Repos"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRana16468&query=%24.following&style=for-the-badge&color=FFD700&labelColor=1B2951&label=FOLLOWING" alt="Following"/>
+<br/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Available-brightgreen?style=for-the-badge&labelColor=1B2951" alt="Open To Work"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Contract%20Based-Yes-FFD700?style=for-the-badge&labelColor=1B2951" alt="Contract"/>
+<img src="https://img.shields.io/badge/Remote-Preferred-FFD700?style=for-the-badge&labelColor=1B2951" alt="Remote"/>
+
+<br/><br/>
+
+<a href="#about">About</a> &nbsp;•&nbsp;
+<a href="#connect">Connect</a> &nbsp;•&nbsp;
+<a href="#stack">Tech Stack</a> &nbsp;•&nbsp;
+<a href="#expertise">Expertise</a> &nbsp;•&nbsp;
+<a href="#built">What I've Built</a> &nbsp;•&nbsp;
+<a href="#projects">Projects</a> &nbsp;•&nbsp;
+<a href="#analytics">GitHub Analytics</a> &nbsp;•&nbsp;
+<a href="#hire">Hire Me</a>
 
 </div>
 
 ---
 
+<a name="about"></a>
 ## 👨‍💻 About Me
 
 I'm a **Full Stack Developer** from **Bangladesh 🇧🇩** with real-world, contract-based experience building production applications end-to-end. I architect scalable backends, design clean REST & GraphQL APIs, integrate payment systems, and craft performant React frontends — always focused on code quality and real impact.
@@ -32,6 +45,7 @@ const sohel: Developer = {
   stack:      ["React", "Next.js", "Node.js", "GraphQL", "MongoDB", "PostgreSQL"],
   strengths:  ["Scalable APIs", "Auth Systems", "Payment Integration", "Clean Architecture"],
   currently:  ["Mastering GraphQL", "Advanced Next.js patterns", "System Design"],
+  openToWork: true,
   contact:    "rana16-468@diu.edu.bd",
   funFact:    "Coffee → Code → Ship → Repeat ☕🚀",
 };
@@ -47,6 +61,7 @@ const sohel: Developer = {
 
 ---
 
+<a name="connect"></a>
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -55,7 +70,7 @@ const sohel: Developer = {
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FFD700?style=for-the-badge&logo=vercel&logoColor=1B2951)](https://my-portfolio-sohel-rana.vercel.app/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana16-468@diu.edu.bd)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana16-468@diu.edu.bd?subject=Project%20Inquiry%20%2F%20Job%20Opportunity)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amsohel.rana.90)
 &nbsp;
@@ -65,40 +80,53 @@ const sohel: Developer = {
 
 ---
 
+<a name="stack"></a>
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&perline=8" />
-</div>
 
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,materialui,figma&perline=8" />
-</div>
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&perline=8" alt="Languages"/>
 
-### ⚙️ Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma&perline=8" />
-</div>
+**🎨 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,materialui,figma&perline=8" alt="Frontend"/>
 
-### 🗄️ Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis&perline=8" />
-</div>
+**⚙️ Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma&perline=8" alt="Backend"/>
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,vercel&perline=8" />
-</div>
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis&perline=8" alt="Databases"/>
 
-### 🧰 Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn,photoshop&perline=8" />
+**☁️ Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,vercel&perline=8" alt="Cloud and DevOps"/>
+
+**🧰 Tools**<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn,ps&perline=8" alt="Tools"/>
+
+<br/>
+
+**🎖️ Proficiency**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-FFD700?style=flat-square&logo=javascript&logoColor=1B2951&labelColor=1B2951)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1B2951)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1B2951)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1B2951)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1B2951)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=1B2951)
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1B2951)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1B2951)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1B2951)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1B2951)
+![Stripe](https://img.shields.io/badge/Stripe-Integration-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=1B2951)
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=white&labelColor=1B2951)
+![Prisma](https://img.shields.io/badge/Prisma-Advanced-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=1B2951)
+![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1B2951)
+
 </div>
 
 ---
 
+<a name="expertise"></a>
 ## ⚙️ Core Backend Expertise
 
 <div align="center">
@@ -118,6 +146,7 @@ const sohel: Developer = {
 
 ---
 
+<a name="built"></a>
 ## 🚀 What I've Built
 
 <details open>
@@ -172,57 +201,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 ---
 
-## 📊 GitHub Statistics
-
-<!-- 
-  NOTE ON RELIABILITY:
-  The cards below use the shared public instances of github-readme-stats,
-  streak-stats and github-profile-trophy. These are free community services
-  used by hundreds of thousands of profiles, so they periodically return
-  503/blank images when the shared GitHub API quota is hit. This is a known,
-  documented limitation of the public instances — not a bug in this file.
-
-  If a card ever shows broken/blank for you:
-  1) Hard-refresh (cards are cached ~30min-ish, GitHub's own image cache can
-     also hold a broken response longer).
-  2) For a permanent fix, deploy your own free instance on Vercel by forking
-     https://github.com/anuraghazra/github-readme-stats and pointing the URLs
-     below at your fork's domain instead of the shared one.
-  3) Alternative: generate static SVGs on a schedule via GitHub Actions
-     (search "github-readme-stats GitHub Actions workflow") and commit them
-     to this repo, so the images are self-hosted and never rate-limited.
--->
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" alt="GitHub Streak"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=8&card_width=320" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951&include_all_commits=true" height="165" alt="GitHub Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&radius=6" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
+<a name="projects"></a>
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -235,75 +214,85 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 </div>
 
-> 💡 Visit my [GitHub profile](https://github.com/Rana16468) to explore all 85+ repositories.
+> 💡 Explore all my repositories on my [GitHub profile](https://github.com/Rana16468?tab=repositories).
 
 ---
 
-## 🎖️ Skill Badges
+<a name="analytics"></a>
+## 📊 GitHub Analytics
+
+### 🔥 At a Glance
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-FFD700?style=flat-square&logo=javascript&logoColor=1B2951&labelColor=1B2951)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1B2951)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1B2951)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-white?style=flat-square&logo=next.js&logoColor=white&labelColor=1B2951)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1B2951)
-![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-E10098?style=flat-square&logo=graphql&logoColor=white&labelColor=1B2951)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1B2951)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1B2951)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1B2951)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1B2951)
-![Stripe](https://img.shields.io/badge/Stripe-Integration-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=1B2951)
-![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=white&labelColor=1B2951)
-![Prisma](https://img.shields.io/badge/Prisma-Advanced-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=1B2951)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1B2951)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=1B2951" alt="GitHub Stats"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=1B2951&langs_count=8&card_width=320" alt="Top Languages"/>
 
+<br/><br/>
+
+<img height="180" src="https://streak-stats.demolab.com/?user=Rana16468&hide_border=true&background=1B2951&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" alt="GitHub Streak"/>
+
+</div>
+
+### 📈 Commit & Contribution Insights
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rana16468&theme=github_dark" alt="Profile Details"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rana16468&theme=github_dark" alt="Repos per Language"/>
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rana16468&theme=github_dark" alt="Most Commit Language"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rana16468&theme=github_dark" alt="Stats Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana16468&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana16468&bg_color=1B2951&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true&radius=6" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+### 🧊 Contribution Calendar & Detailed Metrics
+
+<div align="center">
+
+<img src="./github-metrics-isometric.svg" width="100%" alt="Isometric Contribution Calendar"/>
+
+<br/>
+
+<img src="./github-metrics.svg" width="100%" alt="Detailed GitHub Metrics"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana16468&theme=navy&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 ---
 
-<details>
-<summary><b>🐍 Contribution Snake (optional — one-time setup required)</b></summary>
-<br/>
+## 📌 Recent GitHub Activity
 
-This section is inactive until you complete a one-time GitHub Actions setup — that's why it was removed from the main view. To enable it:
-
-1. In this repo, create `.github/workflows/snake.yml` with the content below.
-2. Push it to `main`, then trigger it once manually from the **Actions** tab (or wait for the daily cron).
-3. Once the workflow finishes, it creates an `output` branch containing `snake.svg` / `snake-dark.svg`.
-4. Add this line back into the README, above the "Open For" section:
-   ```md
-   <img src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/snake-dark.svg" alt="Snake Animation" />
-   ```
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rana16468
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
+<a name="hire"></a>
 ## 💼 Open For
 
 <div align="center">
@@ -317,6 +306,24 @@ jobs:
 
 </div>
 
+### ✅ What You Get When You Work With Me
+
+- **End-to-end delivery** — from database schema and secure APIs to a polished React / Next.js frontend
+- **Production-minded code** — clean architecture, RBAC, token-based auth, and validated inputs
+- **Business-ready integrations** — Stripe payments, webhooks, file storage, translation and AI pipelines
+- **Performance awareness** — indexed queries, caching, and paginated search built for scale
+- **Clear communication** — reliable, contract-based collaboration with focus on real impact
+
+<div align="center">
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/📩%20Hire%20Me-Send%20an%20Email-FFD700?style=for-the-badge&labelColor=1B2951)](mailto:rana16-468@diu.edu.bd?subject=Hiring%20Inquiry%20-%20Full%20Stack%20Developer)
+&nbsp;
+[![View Portfolio](https://img.shields.io/badge/🌐%20View-Portfolio-1B2951?style=for-the-badge&labelColor=FFD700&color=1B2951)](https://my-portfolio-sohel-rana.vercel.app/)
+
+</div>
+
 ---
 
 <div align="center">
@@ -327,6 +334,10 @@ jobs:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:1B2951&height=120&section=footer" width="100%"/>
+<img src="https://img.shields.io/github/last-commit/Rana16468/Rana16468?style=flat-square&color=FFD700&labelColor=1B2951&label=README%20last%20updated" alt="Last Updated"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:1B2951&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
