@@ -204,7 +204,7 @@ Developed a locale-aware API middleware that dynamically translates response con
 <a name="analytics"></a>
 ## 📊 GitHub Analytics
 
-> Auto-updating dashboard: daily commit activity, contribution calendars, streaks, language breakdown and a full GitHub report.
+> Live, auto-updating stats — every widget below is generated on-the-fly from a public API/service, so nothing needs to be built or committed separately. They just work as soon as the README is viewed.
 
 <div align="center">
 
@@ -220,25 +220,17 @@ Developed a locale-aware API middleware that dynamically translates response con
 
 <br/><br/>
 
-### 🧊 3D Contribution Calendar
-
-<img src="./github-metrics-isocalendar.svg" width="100%" alt="3D Isometric Contribution Calendar"/>
-
-<br/><br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rana16468/Rana16468/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
 ### 🔥 Streak Stats
 
 <img src="https://streak-stats.demolab.com/?user=Rana16468&background=1B2951&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideLabels=FFD700&sideNums=FFFFFF&dates=CCCCCC&stroke=FFD700&border=FFD700&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+<br/><br/>
+
+### 📈 GitHub Stats Overview
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rana16468&show_icons=true&theme=dark&bg_color=1B2951&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" alt="GitHub Stats"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana16468&layout=compact&theme=dark&bg_color=1B2951&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&hide_border=false" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -259,12 +251,6 @@ Developed a locale-aware API middleware that dynamically translates response con
 ### ⏰ Productive Time
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rana16468&theme=github_dark&utcOffset=6" alt="Productive Time"/>
-
-<br/><br/>
-
-### 📑 Full GitHub Report
-
-<img src="./github-metrics.svg" width="100%" alt="Full GitHub Metrics Report"/>
 
 </div>
 
